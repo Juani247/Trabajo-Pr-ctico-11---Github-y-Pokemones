@@ -1,14 +1,4 @@
-//Variables
-// let nombre = "Arbok";
-// let nivel = 35;
-// let tipo = ["veneno", "siniestro"];
-// let foto = "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png";
-// let hp = 80;
-// let hp_total = 80;
-// let evolución = false;
-//Objetos
-// const pokemon = {};
-// const pokemon2 = {};
+
 //Arrays
 let seguir_cargando = false;
 const pokemones = [];
@@ -44,5 +34,3 @@ for (let i = 0; i < pokemones.length; i++) {
     "Nombre: " + pokemones[i].nombre + ", Nivel: " + pokemones[i].nivel
   );
 }
-//Mostrar datos cargados en array en formato mas amigable
-// console.log("Nombre: " + pokemon.nombre + ", Nivel: " + pokemon.nivel);
