@@ -2,7 +2,8 @@
 let pokemones = [
   { nombre: "Pikachu", tipo: "Eléctrico", hp: 100, ataque: 55 },
   { nombre: "Charmander", tipo: "Fuego", hp: 90, ataque: 52 },
-  { nombre: "Squirtle", tipo: "Agua", hp: 95, ataque: 48 }
+  { nombre: "Squirtle", tipo: "Agua", hp: 95, ataque: 48 },
+  { nombre: "Bulbasaur", tipo: "Agua", hp: 95, ataque: 48 }
 ];
 
 let opcion = "";
